@@ -1,4 +1,5 @@
 {
-  "VERSION_NAME": 1.1.0,
-  "WEBSITE_URL": "https://example.com"
+  "versionCode": 1.2.0,
+  "updateUrl": "https://example.com"
 }
+
