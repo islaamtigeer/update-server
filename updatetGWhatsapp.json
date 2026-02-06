@@ -1,4 +1,7 @@
 {
-  "versionName": 2.2.3,
-  "updateUrl": "https://t.me/islaam_tigeer"
+    "VERSION_NAME": "3.0.0",
+    "WEBSITE_URL": "https://leowhatsappwebsite.my.canva.site/whatsappx-and-whatsapp-go",
+    "PRIMARY_PACKAGE": "https://t.me/LeoXUpdates",
+    "SECONDARY_PACKAGE": "https://t.me/LeoXUpdates",
+    "TERTIARY_PACKAGE": "https://t.me/LeoXUpdates"
 }
